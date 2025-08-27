@@ -12,7 +12,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class ReponseHotelDto {
+public class ResponseHotelDto {
     private String hotelId;
     private boolean activeStatus;
     private LocalDateTime createdAt;
