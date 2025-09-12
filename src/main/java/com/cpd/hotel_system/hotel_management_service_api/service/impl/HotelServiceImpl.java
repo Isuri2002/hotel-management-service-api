@@ -78,7 +78,7 @@ public class HotelServiceImpl implements HotelService {
                 ).build();
     }
 
-    //convert dto into entity.we use..
+    //convert dto into entity.we use.
     // map-struct - dto-->entity, entity --> dto
     //modelMapper
     //these are methods
